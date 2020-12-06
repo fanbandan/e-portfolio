@@ -1,5 +1,5 @@
 <template>
-  <v-sheet flat color="#C5CAE9" class="px-4" id="AboutMe">
+  <v-sheet flat color="#C5CAE9" class="px-4" id="about">
     <v-row class="section" justify="space-around">
       <v-col md="3">
         <v-card elevation="2">
