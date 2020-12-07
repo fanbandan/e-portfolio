@@ -31,7 +31,7 @@
                 skills since my interest first peeked in Highschool. I'm aiming
                 to follow a career path working in Defence or Infrastructure. I
                 believe both fields add value to Australian society, and feel I
-                can meaniful impact.
+                can meaningful impact.
               </p>
             </v-card-text>
           </v-card>

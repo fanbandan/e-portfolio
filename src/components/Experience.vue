@@ -7,7 +7,7 @@
             <v-card-title class="headline">Experience</v-card-title>
             <v-card-text>
               <p>Over 8 years of programming experience</p>
-              <p>Experienced in engery and defence industries.</p>
+              <p>Experienced in energy and defence industries.</p>
             </v-card-text>
           </v-card>
           <v-card class="mt-4">
