@@ -3,11 +3,32 @@
     <div class="section py-8">
       <v-row justify="center">
         <v-col md="4" align-self="center">
-          <v-card flat>
+          <v-card class="mt-4">
             <v-card-title class="headline">Experience</v-card-title>
             <v-card-text>
               <p>Over 8 years of programming experience</p>
               <p>Experienced in engery and defence industries.</p>
+            </v-card-text>
+          </v-card>
+          <v-card class="mt-4">
+            <v-card-title class="headline">Education</v-card-title>
+            <v-card-text>
+              <div>
+                Bachelor of Engineering Major in Mechatronics (Honours) with
+                Diploma
+              </div>
+              <div class="green--text font-weight-bold">
+                University of Technology Sydney
+              </div>
+            </v-card-text>
+            <v-divider></v-divider>
+            <v-card-text>
+              <div>
+                Certificate III Information, Digital Media and Technology
+              </div>
+              <div class="green--text font-weight-bold">
+                Northern Sydney Institute of TAFE
+              </div>
             </v-card-text>
           </v-card>
         </v-col>
