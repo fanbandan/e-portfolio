@@ -118,6 +118,7 @@
     </v-app-bar>
     <v-main>
       <router-view></router-view>
+      <more />
     </v-main>
     <v-footer app color="primary" dark absolute>
       <span>&copy; {{ new Date().getFullYear() }}</span>
@@ -126,10 +127,11 @@
 </template>
 
 <script>
+import More from "@/components/More.vue";
 export default {
   name: "App",
 
-  components: {},
+  components: { More },
 
   data: () => ({
     drawer: false,
