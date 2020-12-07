@@ -1,6 +1,6 @@
 <template>
-  <v-sheet class="px-4" id="experience">
-    <div class="section">
+  <v-sheet class="px-4" elevation="4" color="blue lighten-4" id="experience">
+    <div class="section py-8">
       <v-row justify="center">
         <v-col md="4" align-self="center">
           <v-card flat>

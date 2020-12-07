@@ -1,7 +1,7 @@
 <template>
-  <v-container
-    fluid
+  <v-sheet
     class="hero bg-cover"
+    elevation="20"
     :style="{
       backgroundImage: 'url(' + require('../assets/hero-bg-1.svg') + ')',
     }"
@@ -14,7 +14,7 @@
         </h4>
       </v-col>
     </v-row>
-  </v-container>
+  </v-sheet>
   <!-- <v-parallax dark :src="require('../assets/hero-fg-1.svg')" height="600">
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12">

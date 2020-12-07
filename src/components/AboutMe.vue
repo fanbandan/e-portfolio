@@ -1,6 +1,6 @@
 <template>
-  <v-sheet flat color="#C5CAE9" class="px-4" id="about">
-    <div class="section">
+  <v-sheet class="px-4" color="indigo lighten-5" elevation="10" id="about">
+    <div class="section py-8">
       <v-row justify="space-around">
         <v-col md="3">
           <v-card elevation="2">

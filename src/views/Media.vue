@@ -21,6 +21,7 @@
                   :src="require('../assets/media/ncp-award-ceremony.jpg')"
                   height="400"
                 >
+                  <div class="fill-height bottom-gradient"></div>
                 </v-img>
               </v-carousel-item>
               <v-carousel-item>
@@ -33,6 +34,7 @@
                   "
                   height="400"
                 >
+                  <div class="fill-height bottom-gradient"></div>
                 </v-img>
               </v-carousel-item>
             </v-carousel>
@@ -60,7 +62,9 @@
               :src="require('../assets/media/ncp-blog.jpg')"
               class="white--text align-end"
             >
-              <v-card-title class="">Malaysia Blog </v-card-title>
+              <div class="fill-height bottom-gradient">
+                <v-card-title class="">Malaysia Blog </v-card-title>
+              </div>
             </v-img>
             <v-card-subtitle>
               September 2020 - Penang, Malaysia
@@ -175,11 +179,10 @@ export default {
 </script>
 <style lang="scss" scoped>
 @import "~vuetify/src/styles/styles.sass";
-.lightbox {
-  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+.bottom-gradient {
   background-image: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.4) 0,
+    to top,
+    rgba(0, 0, 0, 0.4) 0%,
     transparent 72px
   );
 }
