@@ -1,8 +1,14 @@
 <template>
-  <v-sheet class="px-4" color="indigo lighten-5" elevation="10" id="about">
+  <v-sheet
+    class="px-4 section-container"
+    color="indigo lighten-5"
+    elevation="4"
+    style="z-index: 19"
+    id="about"
+  >
     <div class="section py-8">
-      <v-row justify="space-around">
-        <v-col md="3">
+      <v-row>
+        <v-col cols="12" md="3" offset-md="1">
           <v-card elevation="2">
             <v-img
               contain
@@ -12,10 +18,10 @@
             </v-img>
           </v-card>
         </v-col>
-        <v-col justify-center align-self="center" md="6">
-          <v-card flat class="transparent indigo--text">
+        <v-col cols="12" md="7" justify-center align-self="center">
+          <v-card flat class="transparent secondary--text">
             <v-card-title class="headline"> About Me </v-card-title>
-            <v-card-text class="indigo--text">
+            <v-card-text class="secondary--text">
               <p>
                 <span class="font-weight-bold">
                   Hi I'm Connor, thanks for checking out my e-portfolio!
@@ -34,6 +40,19 @@
                 can meaningful impact.
               </p>
             </v-card-text>
+            <v-card-actions>
+              <v-btn
+                large
+                rounded
+                link
+                to="/about"
+                color="primary"
+                dark
+                class="px-4"
+              >
+                Get to know me more!
+              </v-btn>
+            </v-card-actions>
           </v-card>
         </v-col>
       </v-row>

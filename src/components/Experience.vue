@@ -1,8 +1,14 @@
 <template>
-  <v-sheet class="px-4" elevation="4" color="blue lighten-4" id="experience">
+  <v-sheet
+    class="px-4 section-container"
+    elevation="4"
+    style="z-index: 17"
+    color="blue lighten-4"
+    id="experience"
+  >
     <div class="section py-8">
       <v-row justify="center">
-        <v-col md="4" align-self="center">
+        <v-col col="12" md="5" align-self="center">
           <v-card class="mt-4">
             <v-card-title class="headline">Experience</v-card-title>
             <v-card-text>
@@ -10,44 +16,46 @@
               <p>Experienced in energy and defence industries.</p>
             </v-card-text>
           </v-card>
-          <v-card class="mt-4">
-            <v-card-title class="headline">Education</v-card-title>
+          <v-card class="mt-4" color="success lighten-4">
+            <v-card-title class="headline">Key Achievements</v-card-title>
             <v-card-text>
-              <div>
-                Bachelor of Engineering Major in Mechatronics (Honours) with
-                Diploma
-              </div>
-              <div class="green--text font-weight-bold">
-                University of Technology Sydney
-              </div>
+              <p>Over 8 years of programming experience</p>
+              <p>Experienced in energy and defence industries.</p>
             </v-card-text>
-            <v-divider></v-divider>
+          </v-card>
+          <v-card class="mt-4" color="">
+            <v-card-title class="headline">Key Learnings</v-card-title>
             <v-card-text>
-              <div>
-                Certificate III Information, Digital Media and Technology
-              </div>
-              <div class="green--text font-weight-bold">
-                Northern Sydney Institute of TAFE
-              </div>
+              <p>Over 8 years of programming experience</p>
+              <p>Experienced in energy and defence industries.</p>
             </v-card-text>
           </v-card>
         </v-col>
-        <v-col md="8">
+        <v-col col="12" md="7">
           <v-card class="py-8">
-            <v-timeline>
+            <v-timeline dense>
               <v-timeline-item
                 v-for="(job, i) in experience"
                 :key="i"
                 small
                 right
               >
-                <template v-slot:opposite>
-                  <span class="font-weight-bold" v-text="job.dates"></span>
-                </template>
                 <template>
                   <div class="py-4">
                     <div class="mb-2">
-                      <h3 class="title" v-text="job.role"></h3>
+                      <v-row>
+                        <v-col cols="12" md="8">
+                          <h3 class="title" v-text="job.role"></h3>
+                        </v-col>
+                        <v-col cols="12" md="4" class="text-md-right">
+                          <v-chip color="primary" class="mr-md-4">
+                            <span
+                              class="font-weight-bold"
+                              v-text="job.dates"
+                            ></span>
+                          </v-chip>
+                        </v-col>
+                      </v-row>
                       <div class="subtitle-2" v-text="job.company"></div>
                     </div>
                     <div

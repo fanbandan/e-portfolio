@@ -1,9 +1,10 @@
 <template>
   <v-sheet
-    class="hero bg-cover"
-    elevation="20"
+    class="hero bg-cover section-container"
+    elevation="6"
     :style="{
       backgroundImage: 'url(' + require('../assets/hero-bg-1.svg') + ')',
+      'z-index': '20',
     }"
   >
     <v-row align="center" justify="center">

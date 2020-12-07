@@ -1,5 +1,5 @@
 <template>
-  <v-sheet flat tile width="100%" class="px-4 mb-4 mt-8 text-center" id="more">
+  <v-sheet width="100%" class="px-4 my-8 text-center" id="more">
     <div class="section">
       <v-row>
         <v-col>
