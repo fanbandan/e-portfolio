@@ -34,7 +34,7 @@
                 <br />
                 I've always had a strong interest in programming, electrical,
                 and mechanical engineering. I've been developing my programming
-                skills since my interest first peeked in Highschool. I'm aiming
+                skills since my interest first peaked in Highschool. I'm aiming
                 to follow a career path working in Defence or Infrastructure. I
                 believe both fields add value to Australian society, and feel I
                 can meaningful impact.
