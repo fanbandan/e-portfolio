@@ -40,7 +40,7 @@
               November 2019 - Parliament House, Canberra
             </v-card-subtitle>
             <v-card-text class="text--primary">
-              <div>New Colombo Plan award ceremony</div>
+              <div>Receiving the 2020 New Colombo Plan Scholarship</div>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -60,15 +60,16 @@
               :src="require('../assets/media/ncp-blog.jpg')"
               class="white--text align-end"
             >
-              <v-card-title class="media-title">Malaysia Blog</v-card-title>
+              <v-card-title class="">Malaysia Blog </v-card-title>
             </v-img>
             <v-card-subtitle>
               September 2020 - Penang, Malaysia
             </v-card-subtitle>
             <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
-
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>
+                Blog post written about my experience in living and studying in
+                Malaysia
+              </div>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -93,9 +94,10 @@
             </iframe>
             <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
-
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>
+                A podcast organised by UTS careers discussing the benefits of
+                internships and how to find them
+              </div>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -144,9 +146,10 @@
             </v-img>
             <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <v-card-text class="text--primary">
-              <div>Whitehaven Beach</div>
-
-              <div>Whitsunday Island, Whitsunday Islands</div>
+              <div>
+                An interview article written by UTS careers on finding an
+                internship during the corona virus pandemic
+              </div>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -172,7 +175,12 @@ export default {
 </script>
 <style lang="scss" scoped>
 @import "~vuetify/src/styles/styles.sass";
-.media-title {
-  text-shadow: 1px 2px 3px map-get($grey, darken-4);
+.lightbox {
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.2);
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.4) 0,
+    transparent 72px
+  );
 }
 </style>

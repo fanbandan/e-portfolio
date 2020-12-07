@@ -31,6 +31,22 @@
       <v-divider></v-divider>
       <v-list dense shaped>
         <v-subheader>More Details</v-subheader>
+        <v-list-item link to="/media">
+          <v-list-item-icon>
+            <v-icon>mdi-newspaper</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Media</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link to="/skills">
+          <v-list-item-icon>
+            <v-icon>mdi-book-open-page-variant</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Skills</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
         <v-list-item link to="/project#university">
           <v-list-item-icon>
             <v-icon>mdi-archive</v-icon>
@@ -45,22 +61,6 @@
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>Research</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item link to="/skills">
-          <v-list-item-icon>
-            <v-icon>mdi-book-open-page-variant</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>Skills</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item link to="/media">
-          <v-list-item-icon>
-            <v-icon>mdi-newspaper</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>Media</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
         <v-list-item link to="/contact">
@@ -81,10 +81,8 @@
         </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-toolbar-items class="white--text">
-        <v-tab to="/#about">About Me</v-tab>
-        <v-tab to="/resume">Resume</v-tab>
-      </v-toolbar-items>
+      <v-btn flat text to="/#about" class="mx-1">About Me</v-btn>
+      <v-btn flat text to="/resume" class="mx-1">Resume</v-btn>
       <div class="text-center">
         <v-btn
           icon
