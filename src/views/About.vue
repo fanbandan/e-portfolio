@@ -21,6 +21,17 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Hobbies </v-card-title>
+            <v-card-subtitle>Go-Kart Design</v-card-subtitle>
+            <v-card-text>Building go-kart, pictures</v-card-text>
+            <v-divisor></v-divisor>
+            <v-card-subtitle>3D-Printing and electronics</v-card-subtitle>
+            <v-card-text></v-card-text>
+            <v-divisor></v-divisor>
+            <v-card-subtitle>RFS</v-card-subtitle>
+            <v-card-text></v-card-text>
+            <v-divisor></v-divisor>
+            <v-card-subtitle>Programming</v-card-subtitle>
+            <v-card-text>Carasel of past programming projects</v-card-text>
           </v-card>
         </v-col>
       </v-row>

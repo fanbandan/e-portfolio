@@ -86,6 +86,34 @@
             </v-card-actions>
           </v-card>
           <v-card class="mb-4">
+            <v-img
+              :lazy-src="require('../assets/media/ncp-blog.jpg')"
+              :src="require('../assets/media/ncp-blog.jpg')"
+              class="white--text align-end"
+            >
+              <div class="fill-height bottom-gradient">
+                <v-card-title class="">RFS Premiers Citation</v-card-title>
+              </div>
+            </v-img>
+            <v-card-subtitle>
+              December 2020 - Mount Kuring-gai Rural Fire Brigade
+            </v-card-subtitle>
+            <v-card-text class="text--primary">
+              <div>
+                Recieved Premiers Citation for assisting in the 2019-2020 Black Summer Bushfire.
+              </div>
+            </v-card-text>
+            <v-card-actions>
+              <v-btn
+                color="orange"
+                text
+                href="https://www.uts.edu.au/current-students/opportunities/global-opportunities/think-global-story-hub/global-exchange/penang-malaysia-food-study-and-exploration"
+              >
+                Read it here
+              </v-btn>
+            </v-card-actions>
+          </v-card>
+          <v-card class="mb-4">
             <v-card-title>UTS Careers Podcast</v-card-title>
             <iframe
               width="100%"
