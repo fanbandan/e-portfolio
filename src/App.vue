@@ -19,7 +19,7 @@
             <v-list-item-title>Experience</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item link to="/resume">
+        <v-list-item link :href="`${publicPath}Resume.pdf`" target="_blank">
           <v-list-item-icon>
             <v-icon>mdi-download</v-icon>
           </v-list-item-icon>
@@ -98,7 +98,14 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn flat text to="/#about" class="mx-1">About Me</v-btn>
-      <v-btn flat text to="/resume" class="mx-1">Resume</v-btn>
+      <v-btn
+        flat
+        text
+        :href="`${publicPath}Resume.pdf`"
+        target="_blank"
+        class="mx-1"
+        >Resume</v-btn
+      >
       <div class="text-center">
         <v-btn
           icon
@@ -151,6 +158,7 @@ export default {
 
   data: () => ({
     drawer: false,
+    publicPath: process.env.BASE_URL,
   }),
 };
 </script>

@@ -100,7 +100,8 @@
             </v-card-subtitle>
             <v-card-text class="text--primary">
               <div>
-                Recieved Premiers Citation for assisting in the 2019-2020 Black Summer Bushfire.
+                Recieved Premiers Citation for assisting in the 2019-2020 Black
+                Summer Bushfire.
               </div>
             </v-card-text>
             <v-card-actions>
