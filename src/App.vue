@@ -2,7 +2,7 @@
   <v-app>
     <top-side-bar />
     <v-main>
-      <router-view></router-view>
+      <router-view style="min-height: 75vh"></router-view>
       <more />
     </v-main>
     <v-footer app color="primary" dark absolute>
@@ -34,6 +34,7 @@ export default {
 .section {
   max-width: 1400px;
   margin: 0 auto;
+  display: flex;
 }
 .section-container {
   position: relative;
