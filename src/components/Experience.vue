@@ -12,8 +12,10 @@
           <v-card class="mt-4">
             <v-card-title class="headline">Experience</v-card-title>
             <v-card-text>
-              <p>Over 8 years of programming experience</p>
-              <p>Experienced in energy and defence industries.</p>
+              <div>
+                I have working in both the Energy and Defence Industries, and
+                have over six years of programming knowledge and experience
+              </div>
             </v-card-text>
           </v-card>
           <v-card class="mt-4">
@@ -56,21 +58,9 @@
               </v-btn>
             </v-card-actions>
           </v-card>
-          <v-card class="mt-4" color="">
-            <v-card-title class="headline">Key Learnings</v-card-title>
-            <v-card-text>
-              <p>Over 8 years of programming experience</p>
-              <p>Experienced in energy and defence industries.</p>
-            </v-card-text>
-            <v-card-actions>
-              <v-btn medium text link to="/skills" color="primary">
-                My skills
-              </v-btn>
-            </v-card-actions>
-          </v-card>
         </v-col>
         <v-col cols="12" md="7">
-          <v-card class="py-8">
+          <v-card class="py-8 px-2">
             <v-timeline dense>
               <v-timeline-item
                 v-for="(job, i) in experience"

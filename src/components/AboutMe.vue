@@ -22,22 +22,30 @@
           <v-card flat class="transparent secondary--text">
             <v-card-title class="headline"> About Me </v-card-title>
             <v-card-text class="secondary--text">
-              <p>
-                <span class="font-weight-bold">
-                  Hi I'm Connor, thanks for checking out my e-portfolio!
-                </span>
+              <p class="font-weight-bold">
+                Hi there, I'm Connor. <br />
+                Thanks for checking out my e-portfolio!
               </p>
               <p>
-                I'm a fourth year Mechatronics Engineering Student at the
-                University of Technology Sydney and a 2020 New Colombo Plan
-                Scholar for Malaysia.
-                <br />
-                I've always had a strong interest in programming, electrical,
-                and mechanical engineering. I've been developing my programming
-                skills since my interest first peaked in Highschool. I'm aiming
-                to follow a career path working in Defence or Infrastructure. I
-                believe both fields add value to Australian society, and feel I
-                can meaningful impact.
+                I'm a fourth year Mechatronics Engineering Student studying at
+                the University of Technology Sydney, and a 2020 New Colombo Plan
+                Scholar for Malaysia. I’m a hard-working student with a
+                distinction average academic record and more than two years of
+                professional engineering experience.
+              </p>
+              <p>
+                Ever since I was a young child, I knew I wanted to be an
+                engineer. I've always had a strong interest in programming,
+                electronics, and mechanics, which naturally led me to studying
+                Mechatronics. I've been developing my programming skills since
+                Highschool, creating numerous websites along the way. I started
+                worked on small electronics with my father in primary school
+                which has led continued lifelong interest.
+              </p>
+              <p>
+                I'm aiming to follow a career working in Defence or
+                Infrastructure. Both fields add considerable value to Australian
+                society.
               </p>
             </v-card-text>
             <div class="d-flex flex-wrap justify-center justify-md-start">
