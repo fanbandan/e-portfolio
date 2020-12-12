@@ -2,12 +2,9 @@
   <div class="section">
     <v-container class="mt-8">
       <h1>Media</h1>
-      <v-row>
+      <v-row v-masonry>
         <v-col cols="12" md="4">
           <v-card class="mb-4">
-            <v-card-title class="">
-              New Colombo Plan Award Ceremony
-            </v-card-title>
             <v-carousel
               cycle
               height="400"
@@ -20,6 +17,7 @@
                   :lazy-src="require('../assets/media/ncp-award-ceremony.jpg')"
                   :src="require('../assets/media/ncp-award-ceremony.jpg')"
                   height="400"
+                  alt="Connor Boughton after recieving NCP award"
                 >
                   <div class="fill-height bottom-gradient"></div>
                 </v-img>
@@ -33,11 +31,15 @@
                     require('../assets/media/ncp-malaysia-high-commission.jpg')
                   "
                   height="400"
+                  alt="Connor Boughton at the High Commission of Malaysia"
                 >
                   <div class="fill-height bottom-gradient"></div>
                 </v-img>
               </v-carousel-item>
             </v-carousel>
+            <v-card-title class="">
+              New Colombo Plan Award Ceremony
+            </v-card-title>
             <v-card-subtitle>
               November 2019 - Parliament House, Canberra
             </v-card-subtitle>
@@ -57,15 +59,45 @@
         </v-col>
         <v-col cols="12" md="4">
           <v-card class="mb-4">
-            <v-img
-              :lazy-src="require('../assets/media/ncp-blog.jpg')"
-              :src="require('../assets/media/ncp-blog.jpg')"
+            <v-carousel
+              cycle
+              height="400"
+              hide-delimiter-background
+              :show-arrows="false"
               class="white--text align-end"
             >
-              <div class="fill-height bottom-gradient">
-                <v-card-title class="">Malaysia Blog </v-card-title>
-              </div>
-            </v-img>
+              <v-carousel-item>
+                <v-img
+                  :lazy-src="require('../assets/media/ncp-blog-1.jpg')"
+                  :src="require('../assets/media/ncp-blog-1.jpg')"
+                  height="400"
+                  alt="Malaysian street art"
+                >
+                  <div class="fill-height bottom-gradient"></div>
+                </v-img>
+              </v-carousel-item>
+              <v-carousel-item>
+                <v-img
+                  :lazy-src="require('../assets/media/ncp-blog-2.jpg')"
+                  :src="require('../assets/media/ncp-blog-2.jpg')"
+                  height="400"
+                  alt="View of Penang"
+                >
+                  <div class="fill-height bottom-gradient"></div>
+                </v-img>
+              </v-carousel-item>
+              <v-carousel-item>
+                <v-img
+                  :lazy-src="require('../assets/media/ncp-blog-3.jpg')"
+                  :src="require('../assets/media/ncp-blog-3.jpg')"
+                  height="400"
+                  alt="USM buddies and exchange students"
+                >
+                  <div class="fill-height bottom-gradient"></div>
+                </v-img>
+              </v-carousel-item>
+            </v-carousel>
+            <v-card-title class="">Malaysia Blog </v-card-title>
             <v-card-subtitle>
               September 2020 - Penang, Malaysia
             </v-card-subtitle>
@@ -85,18 +117,20 @@
               </v-btn>
             </v-card-actions>
           </v-card>
+        </v-col>
+        <v-col cols="12" md="4">
           <v-card class="mb-4">
             <v-img
-              :lazy-src="require('../assets/media/ncp-blog.jpg')"
-              :src="require('../assets/media/ncp-blog.jpg')"
-              class="white--text align-end"
+              :lazy-src="require('../assets/media/rfs-premiers-citation.jpg')"
+              :src="require('../assets/media/rfs-premiers-citation.jpg')"
+              min-height="300"
+              alt="Mount Kuring-gai RFS Premier's Citation group photo"
             >
-              <div class="fill-height bottom-gradient">
-                <v-card-title class="">RFS Premiers Citation</v-card-title>
-              </div>
+              <div class="fill-height bottom-gradient"></div>
             </v-img>
+            <v-card-title class="">RFS Premier's Citation</v-card-title>
             <v-card-subtitle>
-              December 2020 - Mount Kuring-gai Rural Fire Brigade
+              December 2020 - Mt Kuring-gai Rural Fire Brigade
             </v-card-subtitle>
             <v-card-text class="text--primary">
               <div>
@@ -114,8 +148,11 @@
               </v-btn>
             </v-card-actions>
           </v-card>
+        </v-col>
+        <v-col cols="12" md="4">
           <v-card class="mb-4">
             <v-card-title>UTS Careers Podcast</v-card-title>
+            <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <iframe
               width="100%"
               height="340"
@@ -125,7 +162,6 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <v-card-text class="text--primary">
               <div>
                 A podcast organised by UTS careers discussing the benefits of
@@ -146,6 +182,7 @@
         <v-col cols="12" md="4">
           <v-card class="mb-4">
             <v-card-title>UTS Careers Pannelist</v-card-title>
+            <v-card-subtitle> September 2020 - UTS Careers </v-card-subtitle>
             <iframe
               width="100%"
               height="340"
@@ -155,7 +192,6 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-subtitle> September 2020 - UTS Careers </v-card-subtitle>
             <v-card-text class="text--primary">
               <div>
                 Experiencing an internship is one of the best ways to meet the
@@ -173,10 +209,10 @@
               </v-btn>
             </v-card-actions>
           </v-card>
+        </v-col>
+        <v-col cols="12" md="4">
           <v-card class="mb-4">
-            <v-img>
-              <v-card-title>UTS Careers Article</v-card-title>
-            </v-img>
+            <v-card-title>UTS Careers Article</v-card-title>
             <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <v-card-text class="text--primary">
               <div>
@@ -204,6 +240,19 @@
 export default {
   name: "Media",
   components: {},
+  mounted() {
+    this.repaint();
+  },
+  watch: {
+    items: function () {
+      this.repaint();
+    },
+  },
+  methods: {
+    repaint() {
+      setTimeout(() => this.$redrawVueMasonry(), 1500);
+    },
+  },
 };
 </script>
 <style lang="scss" scoped>
