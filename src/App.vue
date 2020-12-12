@@ -34,7 +34,7 @@ export default {
 .section {
   max-width: 1400px;
   margin: 0 auto;
-  display: flex;
+  /* display: flex; */
 }
 .section-container {
   position: relative;
