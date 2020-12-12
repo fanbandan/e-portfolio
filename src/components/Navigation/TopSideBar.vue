@@ -26,6 +26,14 @@
             <v-list-item-title>About Me</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item link to="/#education">
+          <v-list-item-icon>
+            <v-icon>mdi-school</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>Education</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
         <v-list-item link to="/#experience">
           <v-list-item-icon>
             <v-icon>mdi-briefcase-plus</v-icon>

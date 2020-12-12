@@ -6,6 +6,7 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Passion for engineering </v-card-title>
+            <v-card-text> Photos of my childhood robot </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="12" md="6">
