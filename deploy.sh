@@ -1,8 +1,5 @@
-# deploy.sh
-
 #!/usr/bin/env sh
 
-# abort on errors
 set -e
 
 # build
@@ -20,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # deploy
-git push -f https://github.com/fanbandan/e-portfolio.git master:gh-pages
+# git push -f https://github.com/fanbandan/e-portfolio.git master:gh-pages
 
 cd ..

@@ -6,12 +6,13 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup --allow-unclean"
+    "deploy": "bash deploy.sh && git push -f https://github.com/fanbandan/e-portfolio.git master:gh-pages"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "prettier": "^2.1.2",
     "vue": "^2.6.11",
+    "vue-masonry": "^0.12.0",
     "vue-router": "^3.2.0",
     "vuetify": "^2.2.11"
   },

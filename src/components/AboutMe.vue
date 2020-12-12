@@ -3,12 +3,12 @@
     class="px-4 section-container"
     color="indigo lighten-5"
     elevation="4"
-    style="z-index: 19"
+    style="z-index: 3"
     id="about"
   >
     <div class="section py-8">
-      <v-row>
-        <v-col cols="12" md="3" offset-md="1">
+      <v-row justify="center">
+        <v-col cols="6" md="3" offset-md="1">
           <v-card elevation="2">
             <v-img
               contain
@@ -40,7 +40,7 @@
                 can meaningful impact.
               </p>
             </v-card-text>
-            <v-card-actions>
+            <div class="d-flex flex-wrap justify-center justify-md-start">
               <v-btn
                 large
                 rounded
@@ -48,11 +48,33 @@
                 to="/about"
                 color="primary"
                 dark
-                class="px-4"
+                class="px-4 ma-2"
               >
                 Get to know me more!
               </v-btn>
-            </v-card-actions>
+              <v-btn
+                large
+                rounded
+                link
+                to="/skills"
+                color="success"
+                dark
+                class="px-4 ma-2"
+              >
+                My Skills!
+              </v-btn>
+              <v-btn
+                large
+                rounded
+                link
+                to="/community#leadership"
+                color="warning"
+                dark
+                class="px-4 ma-2"
+              >
+                Community Engagement!
+              </v-btn>
+            </div>
           </v-card>
         </v-col>
       </v-row>

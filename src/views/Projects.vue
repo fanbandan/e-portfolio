@@ -2,7 +2,7 @@
   <div class="section">
     <v-container class="mt-8">
       <h1>Projects</h1>
-      <h2>Academic Projects</h2>
+      <h2 id="academic">Academic Projects</h2>
       <v-row>
         <v-col cols="12" md="6">
           <v-card>
@@ -35,7 +35,7 @@
           </v-card>
         </v-col>
       </v-row>
-      <h2>Professional Projects</h2>
+      <h2 id="professional">Professional Projects</h2>
       <v-row>
         <v-col cols="12" md="6">
           <v-card>
