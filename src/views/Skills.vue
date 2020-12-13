@@ -21,9 +21,7 @@
               <div>
                 Organised and led over a dozen univeristy group projects
               </div>
-              <div>
-                Community leader as a member of the NSW Rural Fire Service
-              </div>
+              <div>Community leader as a member of the Rural Fire Service</div>
             </v-card-text>
             <v-divider></v-divider>
             <v-card-text>
@@ -59,7 +57,7 @@
               </div>
               <div>
                 Developed self directed learning and problem solving skills from
-                Mechatronics Unleashed Program
+                the Mechatronics Unleashed Program
               </div>
             </v-card-text>
             <v-divider></v-divider>

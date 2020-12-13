@@ -109,7 +109,7 @@
             </v-card-subtitle>
             <v-card-text>
               <p>
-                Blog post written about my experience in living and studying in
+                Blog post written about my experience living and studying in
                 Malaysia, published by the University of Technology Sydney.
               </p>
             </v-card-text>
@@ -141,7 +141,7 @@
             <v-card-text>
               <p>
                 Receiving Premiers Citation for assisting in the 2019-2020 Black
-                Summer Bushfire.
+                Summer Bushfires.
               </p>
             </v-card-text>
           </v-card>
@@ -191,9 +191,9 @@
             </iframe>
             <v-card-text>
               <p>
-                I presented as a Panellist on "Getting an Internship During the
-                Pandemic". Over 80 students from all disciplines joined the
-                event to listen to the presentation.
+                I presented as a panellist as part of a UTS Careers presentation
+                on "Getting an Internship During the Pandemic". Over 80 students
+                from all disciplines joined to listen to the event.
               </p>
             </v-card-text>
             <v-card-actions>
@@ -213,9 +213,9 @@
             <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
             <v-card-text>
               <p>
-                An interview article written by UTS careers on finding an
-                internship during the corona virus pandemic based on my
-                experiences.
+                An interview article written by UTS Careers on finding an
+                internship during the corona virus pandemic, based on my
+                personal experiences.
               </p>
             </v-card-text>
             <v-card-actions>

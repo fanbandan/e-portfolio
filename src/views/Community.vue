@@ -8,9 +8,9 @@
             <v-card-title> Leadership </v-card-title>
             <v-card-text>
               <p>
-                Over the past five years I developed my leadership capabilities
-                considerably. I view leadership as an incredibly important
-                ability.
+                Over the past five years I have developed my leadership
+                capabilities considerably. I view leadership as an incredibly
+                important ability.
               </p>
               <p>
                 Starting in high school, whilst working at Delaware North
@@ -40,12 +40,11 @@
               </p>
               <p>
                 I have also gained leadership skills from my experience
-                volunteering for the Rural Fire Service Mount Kuring-gai
-                Brigade. I have previously been involved in the training of new
-                RFS members. I assisted them in obtaining the skills and
-                competencies required to obtain the Bush Firefighting
-                accreditation, familiarisation them with standard tools,
-                equipment, and running practice drills.
+                volunteering for the Rural Fire Service. I have previously been
+                involved in the training of new RFS members. I assisted them in
+                developing the skills and competencies required to obtain the
+                Bush Firefighting accreditation. This included familiarisation
+                with standard tools and equipment, and running practice drills.
               </p>
             </v-card-text>
             <v-card-actions>
@@ -74,10 +73,16 @@
               </p>
               <p>
                 Working in strike teams during the Black Summer bushfires, I
-                learnt some keys factors for effective teamwork. They included
-                strong communication, ensuring everyone is on the same page,
-                even in stressful situations, and providing support, ensuring
+                learnt some keys factors for effective teamwork. It included
+                strong communication, ensuring everyone is on the same page even
+                in stressful situations. As well as Providing support, ensuring
                 teammates are safe, and assisting them where you can.
+              </p>
+              <p>
+                Throughout my university degree I have worked on numerous group
+                projects. To achieve excellent results requires equally as
+                excellent teamwork. You can view some of my experiences using
+                the link below.
               </p>
             </v-card-text>
             <v-card-actions>

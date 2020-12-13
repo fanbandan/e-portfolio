@@ -91,7 +91,7 @@
             </iframe>
             <v-card-text>
               <p>
-                As part of the Mechatronics 2 subject, I co-led a group of eight
+                As part of the Mechatronics 2 subject, I led a group of eight
                 students to design and build two laser tag robots for a
                 BattleBots style project.
               </p>
@@ -104,7 +104,7 @@
                 coordinators. They reported it was "bigger than Ben Hur".
               </p>
               <p>
-                As a team leader, I was responsible for organising the group,
+                As the team leader, I was responsible for organising the group,
                 setting deadlines, allocating tasks, and providing assistance
                 where needed. As one of the most proficient programmers in the
                 group, I also assigned myself to the development of an arena map
@@ -193,8 +193,8 @@
                 As part of the 32nd Warman Design and Build Competition I led a
                 group of three to design and manufacture a robot to transport
                 hazardous vessels (balls seen in the images above) from one
-                compound to another. The project specified robots size
-                constraints, automatous control requirements, and a maximum
+                compound to another. The project specified a robot size
+                constraint, automatous control requirements, and a maximum
                 execution time of 120 seconds
               </p>
               <p>
@@ -230,15 +230,15 @@
                 As part of my Programming for Mechatronics Systems coursework, I
                 created a Probabilistic Road Map path planner. The project used
                 the generation of random points or nodes to solve a path from
-                one point to another.
+                one location to another.
               </p>
               <p>
-                This technique has applications in autonomous robot movement, as
-                it works well with the type of maps that are created from lidar
-                scans.
+                This technique has applications in the movement of autonomous
+                robots, as it works well with the type of maps that are created
+                from lidar scans.
               </p>
               <p>
-                Overall, I did very well in this subject, obtaining a 97 course
+                Overall, I did very well in this subject obtaining a 97 course
                 mark.
               </p>
             </v-card-text>
@@ -273,18 +273,17 @@
             </iframe>
             <v-card-text>
               <p>
-                As part of Sensors and Control for Robotics Systems, I led a
-                team of three to develop and program an autonomous Fetch Robot.
+                As part of Sensors and Control for Robotics Systems subject, I
+                led a team of three to develop and program an autonomous Fetch
+                Robot.
               </p>
               <p>
                 Our proposed scenario for this project was an assistant
                 bartending robot. The goal, was to have the Fetch Robot assist
                 in bar tending duties at high volume bars as well as generating
-                a novel experience for bar guest.
+                a novel experience for the guests.
               </p>
-              <p>
-                Overall, our project achieved the highest mark in the cohort.
-              </p>
+              <p>Our project achieved the highest mark in the cohort.</p>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -351,11 +350,10 @@
                 have engaged in as part of my web contracting business.
               </p>
               <p>
-                My role in these projects involved consultation with clients to
-                establish scope of works and implementation plans. I was also
-                responsible for designing, programming, and testing the
-                websites, as well as time management, invoicing, and training of
-                staff.
+                This involved consultation with clients to establish scope of
+                works and implementation plans. I was also responsible for
+                designing, programming, and testing the websites, as well as
+                time management, invoicing, and training of staff.
               </p>
               <p class="font-weight-bold">Achievements</p>
               <p>

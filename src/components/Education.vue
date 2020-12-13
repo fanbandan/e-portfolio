@@ -67,7 +67,7 @@
               <div class="mb-2">
                 <div class="">Mechatronics 2 Studio</div>
                 <blockquote class="px-2 font-italic">
-                  Co-led a group of eight students to design, fabricate, and
+                  Led a group of eight students to design, fabricate, and
                   program two laser tag robots for a BattleBots style project.
                 </blockquote>
               </div>

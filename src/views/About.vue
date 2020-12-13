@@ -23,25 +23,25 @@
             <v-card-subtitle> My goals for the future </v-card-subtitle>
             <v-card-text>
               <p>
-                In the short term, I’m aiming to find a graduate position in the
-                Defence Industry or working with Infrastructure after completing
-                my university degree.
+                After completing my university degree, I’m aiming to find a
+                graduate position in the Defence Industry or working with
+                Infrastructure .
               </p>
               <p>
-                I’d also like to return to Malaysia as part of my New Colombo
+                I’d also like to return to Malaysia, as part of my New Colombo
                 Plan program, to gain experience living and working in another
                 culture. It would be a great opportunity to further my
-                intercultural skills and understanding. With Asia set to host
+                intercultural skills and knowledgable. With Asia set to host
                 some of the biggest economies of the 21st century, I believe
-                having a strong understanding of the culture and connections
+                having a strong understanding of culture and connections
                 throughout the region will be invaluable.
               </p>
               <p>
                 Long term, I see myself in a management style role. I believe
                 this type of role would be rewarding, and lead to a career where
                 I can embrace lifelong learning principals and practice
-                leadership. I am actively working on developing the skillset for
-                management
+                leadership. I am actively working on developing the skillset
+                required for a management career.
               </p>
             </v-card-text>
             <v-divider></v-divider>
@@ -82,6 +82,9 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Hobbies </v-card-title>
+            <v-card-subtitle
+              >A bit about how I spend my free time</v-card-subtitle
+            >
             <v-carousel
               cycle
               height="400"
@@ -134,7 +137,7 @@
               </p>
               <p>
                 I’m an active volunteer member of the Mount Kuring-gai Rural
-                Service Fire Brigade. I’ve lived my whole life adjacent to
+                Fire Service Brigade. I’ve lived my whole life adjacent to
                 bushland in the Hornsby Shire. For me and many other local
                 residents the RFS has always been an important part of the
                 community. As such, I joined to support and protect the area I
