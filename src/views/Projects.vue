@@ -7,7 +7,12 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Mechactronics Unleashed </v-card-title>
-            <v-card-subtitle> 48622 Mechatronics 1 </v-card-subtitle>
+            <v-card-subtitle>
+              <v-chip color="primary" small class="mr-2">
+                <span class="font-weight-bold">2019</span>
+              </v-chip>
+              <span>48622 Mechatronics 1</span>
+            </v-card-subtitle>
             <v-carousel
               height="400"
               hide-delimiter-background
@@ -49,14 +54,32 @@
               </v-carousel-item>
             </v-carousel>
             <v-card-text>
-              Selective studio program for high performing students</v-card-text
-            >
+              <p>
+                As part of my Mechatronics 1 subject, I participated in an
+                optional selective program for advanced students known as
+                Mechatronics Unleashed.
+              </p>
+              <p>
+                This program allowed me to go above and beyond the base course
+                material, requiring me to develop a deeper understanding of
+                fundamental mechatronics principles. During this program I
+                designed and built a stepper motor control system for a future
+                automated manufacturing project, and an alarm clock which
+                created custom alarms based on my google calendar. The stepped
+                motor control system is shown above.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Laser Tag Robots </v-card-title>
-            <v-card-subtitle> 48623 Mechatronics 2 </v-card-subtitle>
+            <v-card-subtitle>
+              <v-chip color="primary" small class="mr-2">
+                <span class="font-weight-bold">2019</span>
+              </v-chip>
+              <span>48623 Mechatronics 2</span>
+            </v-card-subtitle>
             <iframe
               width="100%"
               height="400"
@@ -66,7 +89,31 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-text></v-card-text>
+            <v-card-text>
+              <p>
+                As part of the Mechatronics 2 subject, I co-led a group of eight
+                students to design and build two laser tag robots for a
+                BattleBots style project.
+              </p>
+              <p>
+                The project was ambitious and complex, involving the design and
+                assembly of an omnidirectional robot, a central game master
+                control program, positional tracking, pathfinding, and Robot
+                Operating System (ROS) integration. Despite this, the project
+                still managed to exceed the expectations of the subject
+                coordinators. They reported it was "bigger than Ben Hur".
+              </p>
+              <p>
+                As a team leader, I was responsible for organising the group,
+                setting deadlines, allocating tasks, and providing assistance
+                where needed. As one of the most proficient programmers in the
+                group, I also assigned myself to the development of an arena map
+                creation and simulation software. This component took in the
+                robot's position and the arena map, assessed the robot's
+                distance to nearby obstacles, and then fed this information into
+                the decision-making algorithm via ROS
+              </p>
+            </v-card-text>
             <v-card-actions>
               <v-btn
                 color="orange"
@@ -81,7 +128,12 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Warman Design and Build Project </v-card-title>
-            <v-card-subtitle> 48600 Mechanical Design 1 </v-card-subtitle>
+            <v-card-subtitle>
+              <v-chip color="primary" small class="mr-2">
+                <span class="font-weight-bold">2019</span>
+              </v-chip>
+              <span>48600 Mechanical Design 1</span>
+            </v-card-subtitle>
             <v-carousel
               cycle
               height="400"
@@ -136,7 +188,21 @@
                 </v-img>
               </v-carousel-item>
             </v-carousel>
-            <v-card-text> Picture + Bio </v-card-text>
+            <v-card-text>
+              <p>
+                As part of the 32nd Warman Design and Build Competition I led a
+                group of three to design and manufacture a robot to transport
+                hazardous vessels (balls seen in the images above) from one
+                compound to another. The project specified robots size
+                constraints, automatous control requirements, and a maximum
+                execution time of 120 seconds
+              </p>
+              <p>
+                My group decided on a novel solution to use a bucket scoop
+                similar to a construction excavator to collect the vessels. We
+                designed the robot in CAD, and laser cut the frame from plywood.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="12" md="6">
@@ -145,7 +211,10 @@
               Probabilistic Road Map Path Finding Project
             </v-card-title>
             <v-card-subtitle>
-              41012 Programming for Mechatronic Systems
+              <v-chip color="primary" small class="mr-2">
+                <span class="font-weight-bold">2020</span>
+              </v-chip>
+              <span>41012 Programming for Mechatronic Systems</span>
             </v-card-subtitle>
             <iframe
               width="100%"
@@ -156,7 +225,23 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-text> Picture + GITHUB link </v-card-text>
+            <v-card-text>
+              <p>
+                As part of my Programming for Mechatronics Systems coursework, I
+                created a Probabilistic Road Map path planner. The project used
+                the generation of random points or nodes to solve a path from
+                one point to another.
+              </p>
+              <p>
+                This technique has applications in autonomous robot movement, as
+                it works well with the type of maps that are created from lidar
+                scans.
+              </p>
+              <p>
+                Overall, I did very well in this subject, obtaining a 97 course
+                mark.
+              </p>
+            </v-card-text>
             <v-card-actions>
               <v-btn
                 color="orange"
@@ -171,7 +256,12 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Bar Tending Robot Project </v-card-title>
-            <v-card-subtitle> 41014 Sensors and Control </v-card-subtitle>
+            <v-card-subtitle>
+              <v-chip color="primary" small class="mr-2">
+                <span class="font-weight-bold">2020</span>
+              </v-chip>
+              <span>41014 Sensors and Control</span>
+            </v-card-subtitle>
             <iframe
               width="100%"
               height="400"
@@ -181,7 +271,21 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-text> Video + GITHUB link </v-card-text>
+            <v-card-text>
+              <p>
+                As part of Sensors and Control for Robotics Systems, I led a
+                team of three to develop and program an autonomous Fetch Robot.
+              </p>
+              <p>
+                Our proposed scenario for this project was an assistant
+                bartending robot. The goal, was to have the Fetch Robot assist
+                in bar tending duties at high volume bars as well as generating
+                a novel experience for bar guest.
+              </p>
+              <p>
+                Overall, our project achieved the highest mark in the cohort.
+              </p>
+            </v-card-text>
             <v-card-actions>
               <v-btn
                 color="orange"
@@ -241,6 +345,12 @@
                 </v-img>
               </v-carousel-item>
             </v-carousel>
+            <v-card-text>
+              <p>
+                The photos above show examples of the web development work I
+                have engaged in as part of my web contracting business.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="12" md="6">
@@ -300,6 +410,16 @@
                 </v-img>
               </v-carousel-item>
             </v-carousel>
+            <v-card-text>
+              <p>
+                Whilst working at Toshiba International Corporation, I designed
+                and developed a custom web based system to assist in the
+                management of minor and major power station outages. The
+                introduction of the system enabled significant cost savings, and
+                allowed project managers to more efficiently plan and utilise
+                resources
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="12" md="6">
@@ -338,6 +458,18 @@
                 </v-img>
               </v-carousel-item>
             </v-carousel>
+            <v-card-text>
+              <p>
+                My main project working at Jenkins Engineering Defence Systems,
+                has been to develop a system for long-term sensor logging for
+                the characterisation of naval vessel as part of a larger
+                Electronic Warfare Project.
+              </p>
+              <p>
+                The program and system I created as part of this project will go
+                into testing in late January 2021.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
       </v-row>
