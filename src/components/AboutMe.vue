@@ -40,7 +40,7 @@
                 electronics, and mechanics, which naturally led me to studying
                 Mechatronics. I've been developing my programming skills since
                 high school, creating numerous websites along the way. I started
-                worked on small electronics with my father in primary school
+                working on small electronics with my father in primary school
                 which has led continued lifelong interest.
               </p>
               <p>
