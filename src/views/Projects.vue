@@ -350,6 +350,19 @@
                 The photos above show examples of the web development work I
                 have engaged in as part of my web contracting business.
               </p>
+              <p>
+                My role in these projects involved consultation with clients to
+                establish scope of works and implementation plans. I was also
+                responsible for designing, programming, and testing the
+                websites, as well as time mangement, invoicing, and training of
+                staff.
+              </p>
+              <p class="font-weight-bold">Achievements</p>
+              <p>
+                Created website solutions for InXite Development Management,
+                Ethos Aged Care, Sarah Muggeridge Mosaics, and Kuring-gai High
+                School.
+              </p>
             </v-card-text>
           </v-card>
         </v-col>
@@ -418,6 +431,14 @@
                 introduction of the system enabled significant cost savings, and
                 allowed project managers to more efficiently plan and utilise
                 resources
+              </p>
+              <p class="font-weight-bold">Project Achievements</p>
+              <p>
+                Met all deadlines and exceeded stakeholder expectations. Trained
+                over 20 staff members with varying levels of expertise.
+                Developed standards for communication between the in-house
+                software. Created documentation for future maintenance of the
+                software.
               </p>
             </v-card-text>
           </v-card>

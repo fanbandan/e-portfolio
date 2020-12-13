@@ -43,8 +43,14 @@
             <v-card-subtitle>
               November 2019 - Parliament House, Canberra
             </v-card-subtitle>
-            <v-card-text class="text--primary">
-              <div>Receiving the 2020 New Colombo Plan Scholarship</div>
+            <v-card-text>
+              <p>Receiving the 2020 New Colombo Plan scholarship.</p>
+              <p>
+                The New Colombo Plan is a prestigious scholarship by the
+                Australian Government. It aims to lift knowledge of the Indo
+                Pacific in Australia by supporting Australian undergraduates to
+                study and undertake internships in the region.
+              </p>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -101,11 +107,11 @@
             <v-card-subtitle>
               September 2020 - Penang, Malaysia
             </v-card-subtitle>
-            <v-card-text class="text--primary">
-              <div>
+            <v-card-text>
+              <p>
                 Blog post written about my experience in living and studying in
-                Malaysia
-              </div>
+                Malaysia, published by the University of Technology Sydney.
+              </p>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -132,21 +138,12 @@
             <v-card-subtitle>
               December 2020 - Mt Kuring-gai Rural Fire Brigade
             </v-card-subtitle>
-            <v-card-text class="text--primary">
-              <div>
-                Recieved Premiers Citation for assisting in the 2019-2020 Black
+            <v-card-text>
+              <p>
+                Recieving Premiers Citation for assisting in the 2019-2020 Black
                 Summer Bushfire.
-              </div>
+              </p>
             </v-card-text>
-            <v-card-actions>
-              <v-btn
-                color="orange"
-                text
-                href="https://www.uts.edu.au/current-students/opportunities/global-opportunities/think-global-story-hub/global-exchange/penang-malaysia-food-study-and-exploration"
-              >
-                Read it here
-              </v-btn>
-            </v-card-actions>
           </v-card>
         </v-col>
         <v-col cols="12" md="4">
@@ -162,11 +159,11 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-text class="text--primary">
-              <div>
-                A podcast organised by UTS careers discussing the benefits of
-                internships and how to find them
-              </div>
+            <v-card-text>
+              <p>
+                I joined a UTS careers podcast as a guest speaker discussing the
+                benefits of internships and how to find them.
+              </p>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -192,12 +189,12 @@
               allowfullscreen
             >
             </iframe>
-            <v-card-text class="text--primary">
-              <div>
-                Experiencing an internship is one of the best ways to meet the
-                challenge of getting job-ready when you spend most of your
-                degree at a university, not a workplace.
-              </div>
+            <v-card-text>
+              <p>
+                I presented as a pannelist on "Getting an Internship During the
+                Pandemic". Over 80 students from all disciplines joined the
+                event to listen to the presentation.
+              </p>
             </v-card-text>
             <v-card-actions>
               <v-btn
@@ -214,11 +211,12 @@
           <v-card class="mb-4">
             <v-card-title>UTS Careers Article</v-card-title>
             <v-card-subtitle> November 2020 - UTS Careers </v-card-subtitle>
-            <v-card-text class="text--primary">
-              <div>
+            <v-card-text>
+              <p>
                 An interview article written by UTS careers on finding an
-                internship during the corona virus pandemic
-              </div>
+                internship during the corona virus pandemic based on my
+                experiences.
+              </p>
             </v-card-text>
             <v-card-actions>
               <v-btn
