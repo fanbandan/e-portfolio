@@ -14,6 +14,7 @@
               contain
               :lazy-src="require('../assets/profile.jpg')"
               :src="require('../assets/profile.jpg')"
+              alt="Profile photo of Connor Boughton"
             >
             </v-img>
           </v-card>
