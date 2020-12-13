@@ -7,6 +7,7 @@
       'z-index': '4',
     }"
   >
+    <!-- Image from https://bgjar.com/polygon-luminary.html -->
     <v-row align="center" justify="center">
       <v-col class="text-center font-weight-thin white--text" cols="12">
         <div class="pa-2">
