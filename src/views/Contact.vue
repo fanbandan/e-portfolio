@@ -21,6 +21,15 @@
 
               <v-textarea outlined name="enquiry" label="Enquiry"></v-textarea>
             </v-form>
+            <p class="font-italic">
+              If you'd like to get in touch complete the form above, or connect
+              with me on
+              <a
+                href="https://au.linkedin.com/in/connor-boughton"
+                target="_blank"
+                >LinkedIn</a
+              >
+            </p>
           </v-card-text>
           <v-card-actions>
             <v-spacer></v-spacer>
