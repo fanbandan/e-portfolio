@@ -110,21 +110,28 @@ export default {
         role: "Mechatronics Intern",
         dates: "Jul 2020 - Current",
         description:
-          "Conducting research on digital signal processing enhancements for Electronic Warefare subsystems. Facilitating the development of long-term sensor logging for naval vessel parametrics and characterisation.",
+          "Conducting research on digital signal processing enhancements for Electronic Warfare subsystems. Facilitating the development of long-term sensor logging for naval vessel parametrics and characterisation.",
       },
       {
         company: "New Colombo Plan",
         role: "NCP Scholar for Malaysia",
         dates: "Jan 2020 - Current",
         description:
-          "Selected to be a Scholar for Malaysia as part of the Australian Government's prestiguos New Colombo Plan. Studied at the University Sains Malaysia developing knowledge of Malaysian culture. ",
+          "Selected to be a Scholar for Malaysia as part of the Australian Government's prestigious New Colombo Plan. Studied at the University Sains Malaysia developing knowledge of Malaysian culture. ",
       },
       {
-        company: "Toshiba Internation Corporation",
+        company: "Toshiba International Corporation",
         role: "Engineering Support Officer",
         dates: "Jul 2018 - Jan 2020",
         description:
           "Implemented and expanded the development of in-house web based project management software. Consulted with Senior Engineers and Managers to tailor the software's functionality. ",
+      },
+      {
+        company: "NSW Rural Fire Service",
+        role: "Volunteer Firefighter",
+        dates: "Jan 2018 - Current",
+        description:
+          "Responding to bushfires and engaging with community in fire preparation practices. Training junior members. Representation at district training exercises. ",
       },
       {
         company: "Self Employed",
@@ -139,13 +146,6 @@ export default {
         dates: "Feb 2015 - Jan 2019",
         description:
           "Managed and coordinated team of 3-5 IT technicians, servicing 500+ point of sales across the Sydney Cricket Ground.",
-      },
-      {
-        company: "NSW Rural Fire Service",
-        role: "Volunteer Firefighter",
-        dates: "Jan 2018 - Current",
-        description:
-          "Responding to bushfires and engaging with community in fire preparation practices. Training junior members. Representation at district training exercices. ",
       },
     ],
   }),
