@@ -41,7 +41,7 @@
                 Mechatronics. I've been developing my programming skills since
                 high school, creating numerous websites along the way. I started
                 working on small electronics with my father in primary school
-                which has led continued lifelong interest.
+                which has led to a continued lifelong interest.
               </p>
               <p>
                 I'm aiming to follow a career working in Defence or
