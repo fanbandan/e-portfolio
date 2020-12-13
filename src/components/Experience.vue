@@ -37,14 +37,6 @@
                 Trained staff with varying levels of technical proficiency in
                 the use of in-house project management software.
               </div>
-              <v-divider class="my-4"></v-divider>
-              <div class="font-weight-bold">
-                Provided training for over 20 staff
-              </div>
-              <div>
-                Trained staff with varying levels of technical proficiency in
-                the use of in-house project management software.
-              </div>
             </v-card-text>
             <v-card-actions>
               <v-btn
