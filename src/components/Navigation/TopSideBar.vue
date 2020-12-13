@@ -80,18 +80,18 @@
         </v-list-item>
         <v-list-item link to="/community#leadership">
           <v-list-item-icon>
-            <v-icon>mdi-account-group</v-icon>
+            <v-icon>mdi-compass</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title> Leadership </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item link to="/community#community">
+        <v-list-item link to="/community#teamwor">
           <v-list-item-icon>
-            <v-icon>mdi-city</v-icon>
+            <v-icon>mdi-account-group</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
-            <v-list-item-title> Community </v-list-item-title>
+            <v-list-item-title> Teamwork </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
         <v-list-item link to="/projects#academic">
