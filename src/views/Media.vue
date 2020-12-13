@@ -9,7 +9,7 @@
               cycle
               height="400"
               hide-delimiter-background
-              :show-arrows="false"
+              :show-arrows="true"
               class="white--text align-end"
             >
               <v-carousel-item>
@@ -63,7 +63,7 @@
               cycle
               height="400"
               hide-delimiter-background
-              :show-arrows="false"
+              :show-arrows="true"
               class="white--text align-end"
             >
               <v-carousel-item>
