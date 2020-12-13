@@ -10,7 +10,7 @@
         dismissible
         class="mt-2"
       >
-        I programmed this website
+        Web development: I programmed this website
       </v-alert>
       <v-row>
         <v-col cols="12" md="6">
@@ -115,27 +115,48 @@
           </v-card>
         </v-col>
       </v-row>
-      <h2>Engineers Australia Comptencies</h2>
+      <!-- <h2>Engineers Australia Comptencies</h2>
       <v-row>
-        <v-col cols="12" md="4">
+        <v-col cols="12" md="6">
           <v-card>
             <v-card-title>
               <v-row>
-                <v-col cols="12" md="8"> Ethics</v-col>
+                <v-col cols="12" md="8">Problem Analysis</v-col>
                 <v-col cols="12" md="4" class="text-md-right">
-                  <v-chip color="success">
-                    <span class="font-weight-bold">Obtained</span>
+                  <v-chip color="info">
+                    <span class="font-weight-bold">Developing</span>
                   </v-chip>
                 </v-col>
               </v-row>
             </v-card-title>
+            <v-card-text>
+              <p>
+                Problem analysis is important for almost aspects of engineering.
+                As part of my long-term career goals, I recognise this is a
+                skillset that I need to indepth expertise in.
+              </p>
+              <p>
+                One on the greatest demonstrations of my problem analysis
+                development to date has been working in the Toshiba
+                International Corporation web based project management system.
+              </p>
+              <p>
+                As part of this project I had to design a new database structure
+                that would allow for previous systems data to be migrated. With
+                over 10’000 rows of data, the task involved lots of careful
+                planning to ensure no data was lost. This was of critical
+                importance as the system contained all project finances.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
-        <v-col cols="12" md="4">
+        <v-col cols="12" md="6">
           <v-card>
             <v-card-title>
               <v-row>
-                <v-col cols="12" md="8"> Ethics</v-col>
+                <v-col cols="12" md="8"
+                  >Meet legal & regulatory requirements</v-col
+                >
                 <v-col cols="12" md="4" class="text-md-right">
                   <v-chip color="warning">
                     <span class="font-weight-bold">Goal</span>
@@ -143,9 +164,21 @@
                 </v-col>
               </v-row>
             </v-card-title>
+            <v-card-text>
+              <p>
+                This is an area I do not have much experience in. To progress as
+                an engineer I know I need to develop my knowledge of Legal and
+                regulatory requirements.
+              </p>
+              <p>
+                I am trying to develop my knowledge in this area, in particular
+                through my exposure to regulatory requirements at Jenkins
+                Engineering Defence Systems.
+              </p>
+            </v-card-text>
           </v-card>
         </v-col>
-      </v-row>
+      </v-row> -->
     </v-container>
   </div>
 </template>
