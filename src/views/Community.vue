@@ -4,76 +4,48 @@
       <h1>Leadership & Community</h1>
       <v-row>
         <v-col cols="12" md="6">
-          <v-card>
+          <v-card id="leadership">
             <v-card-title> Leadership </v-card-title>
-            <v-card-subtitle> My goals for the future </v-card-subtitle>
-            <v-card-text> </v-card-text>
-          </v-card>
-        </v-col>
-        <v-col cols="12" md="6">
-          <v-card>
-            <v-card-title> Community </v-card-title>
-            <v-carousel
-              cycle
-              height="400"
-              hide-delimiter-background
-              :show-arrows="true"
-              class="white--text align-end"
-            >
-              <v-carousel-item>
-                <v-img
-                  :lazy-src="require('../assets/hobbies/3d-printing.jpg')"
-                  :src="require('../assets/hobbies/3d-printing.jpg')"
-                  height="400"
-                  alt="3D printed gear mechanism"
-                  title="3D printed gear mechanism"
-                >
-                  <div class="fill-height bottom-gradient"></div>
-                </v-img>
-              </v-carousel-item>
-              <v-carousel-item>
-                <v-img
-                  :lazy-src="require('../assets/hobbies/go-kart.jpg')"
-                  :src="require('../assets/hobbies/go-kart.jpg')"
-                  height="400"
-                  alt="Self made go-kart"
-                  title="Self made go-kart"
-                >
-                  <div class="fill-height bottom-gradient"></div>
-                </v-img>
-              </v-carousel-item>
-              <v-carousel-item>
-                <v-img
-                  :lazy-src="require('../assets/hobbies/rfs.jpg')"
-                  :src="require('../assets/hobbies/rfs.jpg')"
-                  height="400"
-                  alt="Volunteering for the Rural Fire Service"
-                  title="Volunteering for the Rural Fire Service"
-                >
-                  <div class="fill-height bottom-gradient"></div>
-                </v-img>
-              </v-carousel-item>
-            </v-carousel>
             <v-card-text>
               <p>
-                During the summer break, I normally work on my home-made go-kart
-                with my two high school friends. In 2018 we designed and
-                manufactured our go-kart. Since then, we have determined several
-                improvements for the next iteration, and are working on it
-                currently. It has been very rewarding putting in practice some
-                of the skills I have learnt from university.
+                Over the past five years I developed my leadership capabilities
+                considerablly. I view leadership as an incredibly important
+                ability.
               </p>
               <p>
-                I’m an active volunteer member of the Mount Kuring-gai Rural
-                Fire Brigade. I joined the Rural Fire Service to assist in my
-                local community and to help maintain the area I grew up in. I
-                normally spend Saturday afternoon training every few weekends.
-                I’ve also developed gain a lot of skills for volunteering, such
-                as leadership, communication, and resilience.
+                Starting in high school, whilst working at Delaware North
+                Company in IT, I gained approximately two years of leadership
+                experience at the Sydney Cricket Ground. Working in teams
+                ranging in size from two to five, our job was to provide IT
+                assistance and support to all the stadium outlets (300+). With
+                thousands of people attending game day events, this was a
+                high-pressure job, as IT issues meant frustrated customers and
+                potentially significant loss of revenue. As the team leader, my
+                role involved taking extra initiative, including the escalation
+                of issues from junior staff, extensive problem solving, and the
+                coordination of my team to best respond to IT issues.
               </p>
               <p>
-                Aside from the above, I also like to program, 3D print, and work
-                on electronics projects in my free time.
+                From my experiences at Delaware North Company, I have now gone
+                on to lead several group projects throughout my univeristy
+                degree. During my first semester in 48230 Engineering
+                Communications, I led a group of five working on a proposed
+                biogas energy solution for small Vanuatu communities as part of
+                the Engineers Without Borders challenge. In my third semester as
+                part of 48240 Design and Innovation Fundamentals, I led a group
+                of three in designing an emergency survival kit. More recently
+                as part of 48600 Mechanical Design 1, I led a group of four in
+                designing and manufacturing an autonomous robot for the Warman
+                Design and Build challenge.
+              </p>
+              <p>
+                I have also gained leadership skills from my experience
+                volunteering for the Rural Fire Service Mount Kuring-gai
+                Brigade. I have previously been involved in the training of new
+                RFS members. I assisted them in obtaining the skills and
+                comptencies required to obtain the Bush Firefighting
+                accreditation, familiarisation them with standard tools,
+                equipment, and running practice drills.
               </p>
             </v-card-text>
             <v-card-actions>
@@ -85,7 +57,39 @@
                 color="primary"
                 class="px-4 ma-2"
               >
-                My Projects
+                See My Projects
+              </v-btn>
+            </v-card-actions>
+          </v-card>
+        </v-col>
+        <v-col cols="12" md="6">
+          <v-card id="teamwork">
+            <v-card-title> Teamwork </v-card-title>
+            <v-card-text>
+              <p>
+                As mentioned on my about page, I am a volunteer Rural Fire
+                Service member for the Mount Kuring-gai Brigade. From my
+                experience as a volunteer firefighter, I know the importance of
+                teamwork.
+              </p>
+              <p>
+                Working in strike teams during the Black Summer bushfires, I
+                learnt some keys factors for effective teamwork. They included
+                strong communication, ensuring everyone is on the same page,
+                even in stressful situations, and providing support, ensuring
+                teammates are safe, and assisting them where you can.
+              </p>
+            </v-card-text>
+            <v-card-actions>
+              <v-btn
+                large
+                rounded
+                link
+                to="/projects"
+                color="primary"
+                class="px-4 ma-2"
+              >
+                See My Projects
               </v-btn>
             </v-card-actions>
           </v-card>

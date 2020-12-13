@@ -134,11 +134,14 @@
               </p>
               <p>
                 I’m an active volunteer member of the Mount Kuring-gai Rural
-                Fire Brigade. I joined the Rural Fire Service to assist in my
-                local community and to help maintain the area I grew up in. I
-                normally spend Saturday afternoon training every few weekends.
-                I’ve also developed gain a lot of skills for volunteering, such
-                as leadership, communication, and resilience.
+                Service Fire Brigade. I’ve lived my whole life adjacent to
+                bushland in the Hornsby Shire. For me and many other local
+                residents the RFS has always been an important part of the
+                community. As such, I joined to support and protect the area I
+                grew up in. I have participated in numerous community events,
+                conducted hazard reductions, and assisted in fire fighting
+                efforts. As part of this experience, I’ve developed numerous
+                skills, such as leadership, communication, and resilience.
               </p>
               <p>
                 Aside from the above, I also like to program, 3D print, and work
