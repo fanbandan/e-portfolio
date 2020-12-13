@@ -2,21 +2,21 @@
   <div class="section">
     <v-container class="mt-8">
       <h1>About</h1>
-      <v-row>
-        <v-col cols="12" md="6">
+      <v-row v-masonry>
+        <!-- <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Passion for engineering </v-card-title>
             <v-card-text> Photos of my childhood robot </v-card-text>
             <v-img
               :lazy-src="require('../assets/hobbies/childhood-robot.jpg')"
               :src="require('../assets/hobbies/childhood-robot.jpg')"
-              min-height="300"
+              max-width="400"
               alt="Mount Kuring-gai RFS Premier's Citation group photo"
             >
               <div class="fill-height bottom-gradient"></div>
             </v-img>
           </v-card>
-        </v-col>
+        </v-col> -->
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Career Goals </v-card-title>
@@ -72,7 +72,7 @@
                 link
                 to="/skills"
                 color="primary"
-                class="px-4"
+                class="px-4 ma-2"
               >
                 My Skills
               </v-btn>
@@ -82,17 +82,6 @@
         <v-col cols="12" md="6">
           <v-card>
             <v-card-title> Hobbies </v-card-title>
-            <v-card-subtitle>Go-Kart Design</v-card-subtitle>
-            <v-card-text>Building go-kart, pictures</v-card-text>
-            <v-divisor></v-divisor>
-            <v-card-subtitle>3D-Printing and electronics</v-card-subtitle>
-            <v-card-text></v-card-text>
-            <v-divisor></v-divisor>
-            <v-card-subtitle>RFS</v-card-subtitle>
-            <v-card-text></v-card-text>
-            <v-divisor></v-divisor>
-            <v-card-subtitle>Programming</v-card-subtitle>
-            <v-card-text>Carasel of past programming projects</v-card-text>
             <v-carousel
               cycle
               height="400"
@@ -134,8 +123,39 @@
                 </v-img>
               </v-carousel-item>
             </v-carousel>
+            <v-card-text>
+              <p>
+                During the summer break, I normally work on my home-made go-kart
+                with my two high school friends. In 2018 we designed and
+                manufactured our go-kart. Since then, we have determined several
+                improvements for the next iteration, and are working on it
+                currently. It has been very rewarding putting in practice some
+                of the skills I have learnt from university.
+              </p>
+              <p>
+                I’m an active volunteer member of the Mount Kuring-gai Rural
+                Fire Brigade. I joined the Rural Fire Service to assist in my
+                local community and to help maintain the area I grew up in. I
+                normally spend Saturday afternoon training every few weekends.
+                I’ve also developed gain a lot of skills for volunteering, such
+                as leadership, communication, and resilience.
+              </p>
+              <p>
+                Aside from the above, I also like to program, 3D print, and work
+                on electronics projects in my free time.
+              </p>
+            </v-card-text>
             <v-card-actions>
-              <v-btn text to="/projects" color="primary"> My Projects </v-btn>
+              <v-btn
+                large
+                rounded
+                link
+                to="/projects"
+                color="primary"
+                class="px-4 ma-2"
+              >
+                My Projects
+              </v-btn>
             </v-card-actions>
           </v-card>
         </v-col>
@@ -177,5 +197,18 @@ export default {
       },
     ],
   }),
+  mounted() {
+    this.repaint();
+  },
+  watch: {
+    items: function () {
+      this.repaint();
+    },
+  },
+  methods: {
+    repaint() {
+      setTimeout(() => this.$redrawVueMasonry(), 1500);
+    },
+  },
 };
 </script>

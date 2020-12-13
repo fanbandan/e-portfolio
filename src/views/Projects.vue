@@ -194,7 +194,7 @@
           </v-card>
         </v-col>
       </v-row>
-      <h2 id="professional">Professional Projects</h2>
+      <h2 id="professional" class="mt-2">Professional Projects</h2>
       <v-row v-masonry>
         <v-col cols="12" md="6">
           <v-card>

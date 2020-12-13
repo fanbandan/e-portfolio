@@ -94,20 +94,12 @@
             <v-list-item-title> Community </v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item link to="/projects#university">
+        <v-list-item link to="/projects#academic">
           <v-list-item-icon>
             <v-icon>mdi-archive</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>Projects</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item link to="/projects#research">
-          <v-list-item-icon>
-            <v-icon>mdi-flask</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>Research</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
         <v-list-item link to="/contact">
