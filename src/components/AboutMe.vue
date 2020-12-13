@@ -76,12 +76,12 @@
                 large
                 rounded
                 link
-                to="/community#leadership"
+                to="/contact"
                 color="warning"
                 dark
                 class="px-4 ma-2"
               >
-                Community Engagement!
+                Contact Me!
               </v-btn>
             </div>
           </v-card>
