@@ -39,7 +39,7 @@
                 engineer. I've always had a strong interest in programming,
                 electronics, and mechanics, which naturally led me to studying
                 Mechatronics. I've been developing my programming skills since
-                Highschool, creating numerous websites along the way. I started
+                high school, creating numerous websites along the way. I started
                 worked on small electronics with my father in primary school
                 which has led continued lifelong interest.
               </p>
