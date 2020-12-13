@@ -140,7 +140,7 @@
             </v-card-subtitle>
             <v-card-text>
               <p>
-                Recieving Premiers Citation for assisting in the 2019-2020 Black
+                Receiving Premiers Citation for assisting in the 2019-2020 Black
                 Summer Bushfire.
               </p>
             </v-card-text>
@@ -178,7 +178,7 @@
         </v-col>
         <v-col cols="12" md="4">
           <v-card class="mb-4">
-            <v-card-title>UTS Careers Pannelist</v-card-title>
+            <v-card-title>UTS Careers Panellist</v-card-title>
             <v-card-subtitle> September 2020 - UTS Careers </v-card-subtitle>
             <iframe
               width="100%"
@@ -191,7 +191,7 @@
             </iframe>
             <v-card-text>
               <p>
-                I presented as a pannelist on "Getting an Internship During the
+                I presented as a Panellist on "Getting an Internship During the
                 Pandemic". Over 80 students from all disciplines joined the
                 event to listen to the presentation.
               </p>

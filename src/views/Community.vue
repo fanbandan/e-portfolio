@@ -9,7 +9,7 @@
             <v-card-text>
               <p>
                 Over the past five years I developed my leadership capabilities
-                considerablly. I view leadership as an incredibly important
+                considerably. I view leadership as an incredibly important
                 ability.
               </p>
               <p>
@@ -27,7 +27,7 @@
               </p>
               <p>
                 From my experiences at Delaware North Company, I have now gone
-                on to lead several group projects throughout my univeristy
+                on to lead several group projects throughout my university
                 degree. During my first semester in 48230 Engineering
                 Communications, I led a group of five working on a proposed
                 biogas energy solution for small Vanuatu communities as part of
@@ -43,7 +43,7 @@
                 volunteering for the Rural Fire Service Mount Kuring-gai
                 Brigade. I have previously been involved in the training of new
                 RFS members. I assisted them in obtaining the skills and
-                comptencies required to obtain the Bush Firefighting
+                competencies required to obtain the Bush Firefighting
                 accreditation, familiarisation them with standard tools,
                 equipment, and running practice drills.
               </p>

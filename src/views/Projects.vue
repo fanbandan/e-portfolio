@@ -354,7 +354,7 @@
                 My role in these projects involved consultation with clients to
                 establish scope of works and implementation plans. I was also
                 responsible for designing, programming, and testing the
-                websites, as well as time mangement, invoicing, and training of
+                websites, as well as time management, invoicing, and training of
                 staff.
               </p>
               <p class="font-weight-bold">Achievements</p>
