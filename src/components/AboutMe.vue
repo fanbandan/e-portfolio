@@ -45,7 +45,7 @@
               </p>
               <p>
                 I'm aiming to follow a career working in Defence or
-                Infrastructure. I believe Both fields add considerable value to
+                Infrastructure. I believe both fields add considerable value to
                 Australian society.
               </p>
             </v-card-text>
