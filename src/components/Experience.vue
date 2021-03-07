@@ -13,8 +13,8 @@
             <v-card-title class="headline">Experience</v-card-title>
             <v-card-text>
               <div>
-                I have worked in both the Energy and Defence Industries, and
-                have over six years of programming knowledge and experience
+                I have worked in both the Energy and Defence Industries and have
+                over six years of programming knowledge and experience
               </div>
             </v-card-text>
           </v-card>

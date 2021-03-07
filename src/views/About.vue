@@ -25,22 +25,22 @@
               <p>
                 After completing my university degree, I’m aiming to find a
                 graduate position in the Defence Industry or working with
-                Infrastructure .
+                Infrastructure.
               </p>
               <p>
                 I’d also like to return to Malaysia, as part of my New Colombo
-                Plan program, to gain experience living and working in another
-                culture. It would be a great opportunity to further my
-                intercultural skills and knowledgable. With Asia set to host
+                Plan scholarship, to gain experience living and working in
+                another culture. It would be an excellent opportunity to further
+                my intercultural skills and knowledgable. With Asia set to host
                 some of the biggest economies of the 21st century, I believe
                 having a strong understanding of culture and connections
                 throughout the region will be invaluable.
               </p>
               <p>
                 Long term, I see myself in a management style role. I believe
-                this type of role would be rewarding, and lead to a career where
+                this type of role would be rewarding and lead to a career where
                 I can embrace lifelong learning principals and practice
-                leadership. I am actively working on developing the skillset
+                leadership. I am actively working on developing the skill set
                 required for a management career.
               </p>
             </v-card-text>
@@ -128,12 +128,12 @@
             </v-carousel>
             <v-card-text>
               <p>
-                During the summer break, I normally work on my home-made go-kart
+                During the summer break, I usually work on my home-made go-kart
                 with my two high school friends. In 2018 we designed and
                 manufactured our go-kart. Since then, we have determined several
-                improvements for the next iteration, and are working on it
-                currently. It has been very rewarding putting in practice some
-                of the skills I have learnt from university.
+                improvements for the next iteration and are working on it
+                currently. It has been quite enriching, putting into practice
+                some of the skills I have learnt from university.
               </p>
               <p>
                 I’m an active volunteer member of the Mount Kuring-gai Rural
@@ -143,7 +143,7 @@
                 community. As such, I joined to support and protect the area I
                 grew up in. I have participated in numerous community events,
                 conducted hazard reductions, and assisted in fire fighting
-                efforts. As part of this experience, I’ve developed numerous
+                efforts. As part of this experience, I’ve developed multiple
                 skills, such as leadership, communication, and resilience.
               </p>
               <p>
