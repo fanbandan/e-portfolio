@@ -99,17 +99,17 @@ export default {
     experience: [
       {
         company: "Jenkins Engineering Defence Systems",
-        role: "Mechatronics Intern",
+        role: "Mechatronics Engineer Research Assistant",
         dates: "Jul 2020 - Current",
         description:
-          "Conducting research on digital signal processing enhancements for Electronic Warfare subsystems. Facilitating the development of long-term sensor logging for naval vessel parametrics and characterisation.",
+          "Researching digital signal processing enhancements for Electronic Warfare subsystems. Developing project management plans and documentation. Facilitating the development of long-term sensor logging for naval vessel parametrics and characterisation.",
       },
       {
         company: "New Colombo Plan",
         role: "NCP Scholar for Malaysia",
         dates: "Jan 2020 - Current",
         description:
-          "Selected to be a Scholar for Malaysia as part of the Australian Government's prestigious New Colombo Plan. Studied at the University Sains Malaysia developing knowledge of Malaysian culture. ",
+          "Selected to be a Scholar for Malaysia as part of the Australian Government's prestigious New Colombo Plan. Studied at the University Sains Malaysia, developing knowledge of Malaysian culture. ",
       },
       {
         company: "Toshiba International Corporation",
@@ -123,7 +123,7 @@ export default {
         role: "Volunteer Firefighter",
         dates: "Jan 2018 - Current",
         description:
-          "Responding to bushfires and engaging with community in fire preparation practices. Training junior members. Representation at district training exercises. ",
+          "Responding to bushfires and engaging with the community in fire preparation practices. Training junior members. Representation at district training exercises. ",
       },
       {
         company: "Self Employed",

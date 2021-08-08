@@ -62,11 +62,11 @@
               <p>
                 This program allowed me to go above and beyond the base course
                 material, requiring me to develop a deeper understanding of
-                fundamental mechatronics principles. During this program I
+                fundamental mechatronics principles. During this program, I
                 designed and built a stepper motor control system for a future
-                automated manufacturing project, and an alarm clock which
-                created custom alarms based on my google calendar. The stepped
-                motor control system is shown above.
+                automated manufacturing project and an alarm clock which created
+                custom alarms based on my google calendar. The stepped motor
+                control system is shown above.
               </p>
             </v-card-text>
           </v-card>
@@ -91,27 +91,27 @@
             </iframe>
             <v-card-text>
               <p>
-                As part of the Mechatronics 2 subject, I led a group of eight
+                As part of the Mechatronics 2 subject, I led a team of eight
                 students to design and build two laser tag robots for a
                 BattleBots style project.
               </p>
               <p>
-                The project was ambitious and complex, involving the design and
-                assembly of an omnidirectional robot, a central game master
-                control program, positional tracking, pathfinding, and Robot
-                Operating System (ROS) integration. Despite this, the project
-                still managed to exceed the expectations of the subject
+                The project was ambitious and complex, involving a central game
+                master control program, the design and assembly of an
+                omnidirectional robot, positional tracking, pathfinding, and
+                Robot Operating System (ROS) integration. Despite this, the
+                project still managed to exceed the expectations of the subject
                 coordinators. They reported it was "bigger than Ben Hur".
               </p>
               <p>
                 As the team leader, I was responsible for organising the group,
                 setting deadlines, allocating tasks, and providing assistance
                 where needed. As one of the most proficient programmers in the
-                group, I also assigned myself to the development of an arena map
-                creation and simulation software. This component took in the
-                robot's position and the arena map, assessed the robot's
-                distance to nearby obstacles, and then fed this information into
-                the decision-making algorithm via ROS
+                group, I also assigned myself to develop an arena map creation
+                and simulation software. This component took the robot's
+                position and the arena map, assessed the robot's distance to
+                nearby obstacles, and then fed this information into the
+                decision-making algorithm via ROS.
               </p>
             </v-card-text>
             <v-card-actions>
@@ -190,17 +190,17 @@
             </v-carousel>
             <v-card-text>
               <p>
-                As part of the 32nd Warman Design and Build Competition I led a
+                As part of the 32nd Warman Design and Build Competition, I led a
                 group of three to design and manufacture a robot to transport
                 hazardous vessels (balls seen in the images above) from one
                 compound to another. The project specified a robot size
-                constraint, automatous control requirements, and a maximum
-                execution time of 120 seconds
+                constraint, fully automated control requirements, and a maximum
+                execution time of 120 seconds.
               </p>
               <p>
                 My group decided on a novel solution to use a bucket scoop
                 similar to a construction excavator to collect the vessels. We
-                designed the robot in CAD, and laser cut the frame from plywood.
+                designed the robot in CAD and laser cut the frame from plywood.
               </p>
             </v-card-text>
           </v-card>
@@ -229,16 +229,16 @@
               <p>
                 As part of my Programming for Mechatronics Systems coursework, I
                 created a Probabilistic Road Map path planner. The project used
-                the generation of random points or nodes to solve a path from
-                one location to another.
+                random point generation to solve for a path from one location to
+                another.
               </p>
               <p>
                 This technique has applications in the movement of autonomous
-                robots, as it works well with the type of maps that are created
-                from lidar scans.
+                robots, as it works well with the type of maps created from
+                lidar scans.
               </p>
               <p>
-                Overall, I did very well in this subject obtaining a 97 course
+                Overall, I did very well in this subject, obtaining a 97% course
                 mark.
               </p>
             </v-card-text>
@@ -273,15 +273,15 @@
             </iframe>
             <v-card-text>
               <p>
-                As part of Sensors and Control for Robotics Systems subject, I
-                led a team of three to develop and program an autonomous Fetch
+                As part of my Sensors and Control for Robotics Systems subject,
+                I led a team of three to develop and program an autonomous Fetch
                 Robot.
               </p>
               <p>
                 Our proposed scenario for this project was an assistant
-                bartending robot. The goal, was to have the Fetch Robot assist
-                in bar tending duties at high volume bars as well as generating
-                a novel experience for the guests.
+                bartending robot. The goal was to have the Fetch Robot assist in
+                bartending duties at high volume bars and generate a novel
+                experience for the guests.
               </p>
               <p>Our project achieved the highest mark in the cohort.</p>
             </v-card-text>
@@ -350,10 +350,11 @@
                 have engaged in as part of my web contracting business.
               </p>
               <p>
-                This involved consultation with clients to establish scope of
-                works and implementation plans. I was also responsible for
-                designing, programming, and testing the websites, as well as
-                time management, invoicing, and training of staff.
+                My activities included consultation with clients to establish
+                the scope of work and the development of implementation plans. I
+                was also responsible for designing, programming, and testing the
+                websites, as well as time management, invoicing, and staff
+                training.
               </p>
               <p class="font-weight-bold">Achievements</p>
               <p>
@@ -424,11 +425,11 @@
             <v-card-text>
               <p>
                 Whilst working at Toshiba International Corporation, I designed
-                and developed a custom web based system to assist in the
-                management of minor and major power station outages. The
-                introduction of the system enabled significant cost savings, and
-                allowed project managers to more efficiently plan and utilise
-                resources
+                and developed a custom web-based system to assist in the
+                management of major and minor power station outages. The
+                introduction of the system enabled significant cost savings and
+                allowed project managers to plan and utilise resources more
+                efficiently.
               </p>
               <p class="font-weight-bold">Project Achievements</p>
               <p>
@@ -479,14 +480,10 @@
             </v-carousel>
             <v-card-text>
               <p>
-                My main project working at Jenkins Engineering Defence Systems,
-                has been to develop a system for long-term sensor logging for
-                the characterisation of naval vessel as part of a larger
-                Electronic Warfare Project.
-              </p>
-              <p>
-                The program and system I created as part of this project will go
-                into testing in late January 2021.
+                My first project working at Jenkins Engineering Defence Systems
+                was developing a system for long-term sensor logging for the
+                characterisation of naval vessels as part of a larger Electronic
+                Warfare Project.
               </p>
             </v-card-text>
           </v-card>

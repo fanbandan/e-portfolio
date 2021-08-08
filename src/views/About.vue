@@ -23,23 +23,23 @@
             <v-card-subtitle> My goals for the future </v-card-subtitle>
             <v-card-text>
               <p>
-                After completing my university degree, I’m aiming to find a
-                graduate position in the Defence Industry or working with
-                Infrastructure.
+                After completing my university degree, I aim to find a graduate
+                position in manufacturing and automation or working with
+                infrastructure.
               </p>
               <p>
-                I’d also like to return to Malaysia, as part of my New Colombo
-                Plan scholarship, to gain experience living and working in
+                As part of my New Colombo Plan scholarship, I would like to
+                return to Malaysia to gain experience living and working in
                 another culture. It would be an excellent opportunity to further
-                my intercultural skills and knowledgable. With Asia set to host
+                my intercultural skills and knowledge. With Asia set to host
                 some of the biggest economies of the 21st century, I believe
-                having a strong understanding of culture and connections
+                having a solid understanding of culture and connections
                 throughout the region will be invaluable.
               </p>
               <p>
                 Long term, I see myself in a management style role. I believe
                 this type of role would be rewarding and lead to a career where
-                I can embrace lifelong learning principals and practice
+                I can embrace lifelong learning principles and practice
                 leadership. I am actively working on developing the skill set
                 required for a management career.
               </p>
@@ -128,7 +128,7 @@
             </v-carousel>
             <v-card-text>
               <p>
-                During the summer break, I usually work on my home-made go-kart
+                During the summer break, I usually work on my homemade go-kart
                 with my two high school friends. In 2018 we designed and
                 manufactured our go-kart. Since then, we have determined several
                 improvements for the next iteration and are working on it
@@ -136,15 +136,15 @@
                 some of the skills I have learnt from university.
               </p>
               <p>
-                I’m an active volunteer member of the Mount Kuring-gai Rural
-                Fire Service Brigade. I’ve lived my whole life adjacent to
-                bushland in the Hornsby Shire. For me and many other local
-                residents the RFS has always been an important part of the
-                community. As such, I joined to support and protect the area I
-                grew up in. I have participated in numerous community events,
-                conducted hazard reductions, and assisted in fire fighting
-                efforts. As part of this experience, I’ve developed multiple
-                skills, such as leadership, communication, and resilience.
+                I am an active volunteer member of the Mount Kuring-gai Rural
+                Fire Service Brigade. I've lived my whole life adjacent to
+                bushland in the Hornsby Shire. For me and many other residents,
+                the RFS has always been an essential part of the community. As
+                such, I joined to support and protect the area where I grew up.
+                I have participated in numerous community events, conducted
+                hazard reductions, and assisted in fire fighting efforts. As
+                part of this experience, I have developed several skills, such
+                as leadership, communication, and resilience
               </p>
               <p>
                 Aside from the above, I also like to program, 3D print, and work

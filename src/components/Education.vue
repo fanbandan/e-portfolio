@@ -20,8 +20,8 @@
                 University of Technology Sydney
               </div>
               <div>
-                <div><strong>GPA: </strong>6.40 / 7</div>
-                <div><strong>WAM: </strong>82.49</div>
+                <div><strong>GPA: </strong>6.43 / 7</div>
+                <div><strong>WAM: </strong>82.97</div>
               </div>
               <v-divider class="my-4"></v-divider>
               <div class="font-weight-bold">Exchange Semester Summer 2020</div>
@@ -51,7 +51,7 @@
                 <strong class="success--text">top 5%</strong> of cohort
               </div>
               <div>
-                <strong class="success--text">15</strong> High Distinctions,
+                <strong class="success--text">19</strong> High Distinctions,
                 <strong class="success--text">9</strong> Distinctions,
                 <strong class="success--text">0</strong> Fails or Passes
               </div>

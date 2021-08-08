@@ -30,23 +30,23 @@
               <p>
                 I am a fifth-year Mechatronics Engineering student studying at
                 the University of Technology Sydney and a 2020 New Colombo Plan
-                Scholar for Malaysia. I’m a hard-working student with a
+                Scholar for Malaysia. I am a hard-working student with a
                 distinction average academic record and more than two years of
                 professional engineering experience.
               </p>
               <p>
                 Ever since I was a young child, I knew I wanted to be an
-                engineer. I've always had a strong interest in programming,
+                engineer. I have always had a strong interest in programming,
                 electronics, and mechanics, which naturally led me to study
-                Mechatronics. I've been developing my programming skills since
+                Mechatronics. I have been developing my programming skills since
                 high school, creating numerous websites along the way. I started
                 working on small electronics projects in primary school, leading
                 to a continued lifelong interest.
               </p>
               <p>
-                I'm aiming to follow a career working in Defence or
-                Infrastructure. I believe both fields add considerable value to
-                Australian society.
+                I am aiming to follow a career working in Manufacturing and
+                Automation or Infrastructure. I believe both fields add
+                considerable value to Australian society.
               </p>
             </v-card-text>
             <div class="d-flex flex-wrap justify-center justify-md-start">

@@ -19,9 +19,9 @@
             <v-card-text>
               <div class="font-weight-bold">Leadership</div>
               <div>
-                Organised and led over a dozen univeristy group projects
+                Organised and led over a dozen univeristy group projects.
               </div>
-              <div>Community leader as a member of the Rural Fire Service</div>
+              <div>Community leader as a member of the Rural Fire Service.</div>
             </v-card-text>
             <v-divider></v-divider>
             <v-card-text>
@@ -29,11 +29,15 @@
               <div>
                 Learnt strong communications skills from client consultation and
                 conveying technical information to senior managers at Toshiba
-                International Corporation
+                International Corporation.
               </div>
               <div>
                 Utilise strong communication skills on firegrounds as a member
-                of the NSW Rural Fire Service
+                of the NSW Rural Fire Service.
+              </div>
+              <div>
+                Gained strong cross culture understanding and communication
+                skills from the New Colombo Plan Scholarship.
               </div>
             </v-card-text>
             <v-divider></v-divider>
@@ -41,11 +45,11 @@
               <div class="font-weight-bold">Business</div>
               <div>
                 Learnt scoping skills from developing project requirements at
-                Toshiba International Corporation and web contract work
+                Toshiba International Corporation and web contract work.
               </div>
               <div>
                 Gained time management skills from studying and meeting client
-                deadlines
+                deadlines.
               </div>
             </v-card-text>
             <v-divider></v-divider>
@@ -53,11 +57,11 @@
               <div class="font-weight-bold">Research</div>
               <div>
                 Developing research skills as a member of the Jenkins
-                Engineering Defence Systems Research and Development Team
+                Engineering Defence Systems Research and Development Team.
               </div>
               <div>
                 Developed self directed learning and problem solving skills from
-                the Mechatronics Unleashed Program
+                the Mechatronics Unleashed Program.
               </div>
             </v-card-text>
             <v-divider></v-divider>
@@ -69,26 +73,26 @@
             <v-card-text>
               <div class="font-weight-bold">Programming</div>
               <div>
-                Experienced in Web development, and Embedded programming
+                Experienced in Web development, and Embedded programming.
               </div>
-              <div>Skilled in C# .NET Core, MATLAB, and C++</div>
-              <div>Familiar with NodeJS, Python, PHP, MySQL and SQL</div>
+              <div>Skilled in C# .NET Core, MATLAB, and C++.</div>
+              <div>Familiar with NodeJS, Python, PHP, MySQL and SQL.</div>
             </v-card-text>
             <v-divider></v-divider>
             <v-card-text>
               <div class="font-weight-bold">CAD</div>
-              <div>Experience in Solidworks</div>
+              <div>Experience in Solidworks.</div>
               <div>
                 Practiced in developing models, sketches, and conducting Finite
-                Element Anaylsis
+                Element Anaylsis.
               </div>
             </v-card-text>
             <v-divider></v-divider>
             <v-card-text>
               <div class="font-weight-bold">Robotics / Hardware</div>
-              <div>Familiar with Robotics Operating System (ROS)</div>
+              <div>Familiar with Robotics Operating System (ROS).</div>
               <div>
-                Significant experience working with Arduinos and Raspberry Pi's
+                Significant experience working with Arduinos and Raspberry Pi's.
               </div>
             </v-card-text>
             <v-divider></v-divider>
@@ -96,10 +100,10 @@
               <div class="font-weight-bold">
                 Proficient Microsoft Office Products
               </div>
-              <div>Excel, Visio, Word, Powerpoint</div>
+              <div>Excel, Visio, Power Automate, Word, Powerpoint</div>
               <div>
                 Highly knowledgable in Excel formulas, calculations, and
-                automation
+                automation.
               </div>
             </v-card-text>
             <v-divider></v-divider>
